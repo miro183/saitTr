@@ -32,7 +32,7 @@
 .gg {
     background: gray;
     padding: 30px;
-    width: 40%;
+    width: 80%;
     text-align: center;
     border-radius: 50px;
 }
@@ -110,3 +110,4 @@ h2 {
     text-align: center;
     color: snow;
 }
+
